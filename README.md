@@ -8,6 +8,7 @@ Model developed by GAMA platform, 3D printed map of the area, video projecot and
 <h1>Section V presents the simulation results.</h1>
 <h1>Section VI concludes and proposes possible future developments.</h1>
 
+![screenshots](https://i.imgur.com/8mhaV0i.png)
 
 ## Welcome to GitHub Pages
 
