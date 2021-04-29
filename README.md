@@ -10,4 +10,4 @@ Model developed by GAMA platform, 3D printed map of the area, video projecot and
 
 ![screenshots](https://i.imgur.com/8mhaV0i.png)
 
-[Link](https://photo-cms-vovworld.zadn.vn/cw500/uploaded/vovworld/yqdxwpjwq/2019_06_14/vov5_img_1391_zsun.jpg)
+[Article showing results of the project.](https://photo-cms-vovworld.zadn.vn/cw500/uploaded/vovworld/yqdxwpjwq/2019_06_14/vov5_img_1391_zsun.jpg)
