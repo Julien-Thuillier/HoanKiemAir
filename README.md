@@ -2,10 +2,10 @@
 in exploring multiple scenarios
 it can not only serve as a decision-support tool, but also provide information and raise public awareness about the current situation !
 Model developed by GAMA platform, 3D printed map of the area, video projecot and an Android Application</p>**
-_<p>Section II presents a review of related works.</p>
+_<p>Section II presents a review of related works.</p>_
 <p>Section III describes the agent-based model. (Overview, Design concepts, Details) ODD protocol</p>
 <p>Section IV presents how the tangible interface works.</p>
 <p>Section V presents the simulation results.</p>
-<p>Section VI concludes and proposes possible future developments.</p>_
+_<p>Section VI concludes and proposes possible future developments.</p>_
 
 ![screenshots](https://i.imgur.com/8mhaV0i.png)
