@@ -1,4 +1,4 @@
-<p>Here is the introduction of the HoanKiemAir Project : an agent-based model which can simulate traffic and the consequent air pollution in the Hoan Kiem district area
+**Bold**<p>Here is the introduction of the HoanKiemAir Project : an agent-based model which can simulate traffic and the consequent air pollution in the Hoan Kiem district area
 in exploring multiple scenarios
 it can not only serve as a decision-support tool, but also provide information and raise public awareness about the current situation !
 Model developed by GAMA platform, 3D printed map of the area, video projecot and an Android Application</p>
