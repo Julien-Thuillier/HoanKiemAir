@@ -1,12 +1,12 @@
 Introduction du sujet : HoanKiemAir : an agent-based model which can simulate traffic and the consequent air pollution in the Hoan Kiem district area
 explore multiple scenarios
-, it can not only serve as a decision-support tool, but also provide information and raise public awareness about the current situation
+it can not only serve as a decision-support tool, but also provide information and raise public awareness about the current situation
 Model developed by GAMA platform, 3D printed map of the area, video projecot and an Android Application
-Section II presents a review of related works. 
-Section III describes the agent-based model. (Overview, Design concepts, Details) ODD protocol
-Section IV presents how the tangible interface works. 
-Section V presents the simulation results. 
-Section VI concludes and proposes possible future developments.
+<h1>Section II presents a review of related works.</h1>
+<h1>Section III describes the agent-based model. (Overview, Design concepts, Details) ODD protocol</h1>
+<h1>Section IV presents how the tangible interface works.</h1>
+<h1>Section V presents the simulation results.</h1>
+<h1>Section VI concludes and proposes possible future developments.</h1>
 
 
 ## Welcome to GitHub Pages
