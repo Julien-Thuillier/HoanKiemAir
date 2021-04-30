@@ -18,4 +18,4 @@ _concludes and proposes possible future developments._
 
 ![screenshots](https://i.imgur.com/8mhaV0i.png)
 
-[Lien fichier map 3D](C:\Users\julie\OneDrive\Documents\L3 TI\S2\Mémoire)
+[Lien fichier map 3D](C:\Users\julie\OneDrive\Documents\L3 TI\S2\Mémoire\map_split_1_1_1 (repaired).stl)
