@@ -18,4 +18,4 @@ _concludes and proposes possible future developments._
 
 ![screenshots](https://i.imgur.com/8mhaV0i.png)
 
-<script src=https://github.com/WARMTeam/HoanKiemAir/blob/master/GAMA/GAMA_1.8RC2/3D%20map/16%20mai/map_split_1_1_1%20(repaired).stl>Coucou</script>
+<script src="https://github.com/WARMTeam/HoanKiemAir/blob/master/GAMA/GAMA_1.8RC2/3D%20map/16%20mai/map_split_1_1_1%20(repaired).stl"></script>
