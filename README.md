@@ -2,6 +2,9 @@
 in exploring multiple scenarios
 it can not only serve as a decision-support tool, but also provide information and raise public awareness about the current situation !
 Model developed by GAMA platform, 3D printed map of the area, video projecot and an Android Application**
+
+[Vidéo Youtube présentant le projet](https://www.youtube.com/watch?v=U2w0GtLHACU&ab_channel=GamaPlatform)
+
 ### Section II 
 _presents a review of related works._
 ### Section III 
@@ -16,5 +19,3 @@ _concludes and proposes possible future developments._
 ![screenshots](https://i.imgur.com/8mhaV0i.png)
 
 [Lien fichier map 3D](https://github.com/WARMTeam/HoanKiemAir/blob/master/GAMA/GAMA_1.8RC2/3D%20map/16%20mai/map_split_1_1_1%20(repaired).stl)
-
-[Vidéo Youtube présentant le projet](https://www.youtube.com/watch?v=U2w0GtLHACU&ab_channel=GamaPlatform)
